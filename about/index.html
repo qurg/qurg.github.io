@@ -29,6 +29,10 @@
 
   
   
+    
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+
+  
   
 <meta name="generator" content="Hexo 7.1.1"></head>
 
@@ -118,6 +122,8 @@
       </div>
       
         
+  <div id="comments"></div>
+
 
 
 
@@ -253,6 +259,27 @@
 
 
 
+  
+    
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+    
+<script src="//cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js"></script>
+
+    <script>
+      var gitalk = new Gitalk({
+        clientID: 'd8c66945845f2f8abe15',
+        clientSecret: '5c38123aa216cf8d825f7fae1d27c43aac58e00c',
+        repo: 'qurg.github.io',
+        owner: 'qurg',
+        admin: ['qurg'],
+        id: md5(window.location.pathname),
+        distractionFreeMode: false,
+        language: 'zh-CN',
+        pagerDirection: 'last'
+      });
+      gitalk.render('comments');
+    </script>
   
 
   
