@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qurg.github.io/workage/</loc>
+    
+    <lastmod>2024-04-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://qurg.github.io/settle/</loc>
     
     <lastmod>2024-04-17</lastmod>
@@ -37,6 +46,13 @@
   
   <url>
     <loc>https://qurg.github.io/tags/%E8%B7%A8%E5%A2%83/</loc>
+    <lastmod>2024-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://qurg.github.io/tags/%E8%81%8C%E5%9C%BA/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
