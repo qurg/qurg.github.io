@@ -3,11 +3,11 @@
   <title>朴实的大曲</title>
   
   <subtitle>分享行业知识，推动行业进步</subtitle>
-  <link href="https://qurg.github.io/atom.xml" rel="self"/>
+  <link href="https://rod365.com/atom.xml" rel="self"/>
   
-  <link href="https://qurg.github.io/"/>
+  <link href="https://rod365.com/"/>
   <updated>2024-04-18T01:10:12.934Z</updated>
-  <id>https://qurg.github.io/</id>
+  <id>https://rod365.com/</id>
   
   <author>
     <name>QRG</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>年龄焦虑与职场高龄</title>
-    <link href="https://qurg.github.io/workage/"/>
-    <id>https://qurg.github.io/workage/</id>
+    <link href="https://rod365.com/workage/"/>
+    <id>https://rod365.com/workage/</id>
     <published>2024-04-17T09:41:15.000Z</published>
     <updated>2024-04-18T01:10:12.934Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="职场" scheme="https://qurg.github.io/tags/%E8%81%8C%E5%9C%BA/"/>
+    <category term="职场" scheme="https://rod365.com/tags/%E8%81%8C%E5%9C%BA/"/>
     
   </entry>
   
   <entry>
     <title>跨境业务结算系统调研</title>
-    <link href="https://qurg.github.io/settle/"/>
-    <id>https://qurg.github.io/settle/</id>
+    <link href="https://rod365.com/settle/"/>
+    <id>https://rod365.com/settle/</id>
     <published>2024-04-17T04:58:44.000Z</published>
     <updated>2024-04-19T08:35:06.718Z</updated>
     
@@ -55,9 +55,9 @@
     
     
     
-    <category term="调研" scheme="https://qurg.github.io/tags/%E8%B0%83%E7%A0%94/"/>
+    <category term="调研" scheme="https://rod365.com/tags/%E8%B0%83%E7%A0%94/"/>
     
-    <category term="跨境" scheme="https://qurg.github.io/tags/%E8%B7%A8%E5%A2%83/"/>
+    <category term="跨境" scheme="https://rod365.com/tags/%E8%B7%A8%E5%A2%83/"/>
     
   </entry>
   
